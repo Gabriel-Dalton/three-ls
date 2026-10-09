@@ -28,7 +28,7 @@ Some figures in an earlier talk may be historical or depend on assumptions that 
 
 > We changed [specific thing] to achieve [purpose]. We observed [result] using [method] on [date] under [conditions]. This tells us [supported conclusion]. We have not measured [remaining unknown].
 
-The fictional examples in this repository illustrate decisions and reporting. They are not measured client results.
+The [illustrative scenarios](examples/README.md) are fictional. The [Mittler Senior Technology case study](case-studies/mittler-senior-technology.md) describes a real project using published results and explains the limits of that record.
 
 ## Further reading
 

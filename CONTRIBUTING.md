@@ -4,6 +4,8 @@ Useful contributions include clearer explanations, practical examples, translati
 
 Open an issue to suggest a change, or submit a pull request with a short explanation of what it improves. Small contributions are welcome.
 
+If you try the workshop or worksheet, tell us the setting, what participants found useful, where they got stuck, and what you changed. Share anonymised feedback with permission. We will distinguish reports of use from evidence of environmental outcomes.
+
 ## Keep the framework clear
 
 Keep the three steps recognisable: Learn, Lighten, Lead. Explain adaptations and preserve attribution. Prefer plain language and activities that work without specialist tools or paid accounts.

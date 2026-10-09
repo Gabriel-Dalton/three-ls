@@ -1,5 +1,7 @@
 # My 3 Ls action plan
 
+**Status:** initial worksheet. No completed pilot or participant feedback is documented here yet.
+
 Copy this worksheet for your own use. Keep private notes locally; share only information you have permission to publish.
 
 **Activity or project:**

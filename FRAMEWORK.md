@@ -14,9 +14,7 @@ Useful questions:
 - Is this figure measured, modelled, or simply repeated from somewhere else?
 - What information would help me make a better decision?
 
-**Your output:** one thing you learned, its source, and one question you still cannot answer.
-
-Lack of disclosure is useful information. Record it as an unknown. Do not turn it into a precise estimate without a defensible method.
+Write down one thing you learned and one question you still cannot answer.
 
 ## 2. Lighten
 
@@ -30,11 +28,11 @@ Possible actions:
 - Remove unused website code and optimise media for the way people actually use it.
 - Keep working devices useful through maintenance, repair, and software that supports them.
 
-**Your output:** one change, the reason you chose it, and a way to check whether it helped.
+Choose one change and a way to check whether it helped.
 
 Choose changes that preserve accessibility, privacy, security, and the purpose of the service. A lighter page that somebody cannot use has failed its job. Keep captions and accessible alternatives, and preserve records you need.
 
-Actions have different effects. Removing a file does not establish that a server used less electricity. Reducing transferred bytes is an observation about data transfer; a carbon claim needs additional evidence. See [evidence and measurement](EVIDENCE.md).
+For help reporting the result, see [evidence and measurement](EVIDENCE.md).
 
 ## 3. Lead
 
@@ -48,7 +46,7 @@ Possible actions:
 - Propose a media budget, maintenance practice, or review process for your team.
 - Publish an example others can reproduce, including its limits.
 
-**Your output:** one person or group involved, one next action, and a date to revisit it.
+Involve someone who can use what you learned, and agree on a next action.
 
 Individual habits matter within larger systems. Developers, institutions, and suppliers also control design, infrastructure, procurement, and disclosure. Use your influence where you have it.
 

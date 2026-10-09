@@ -1,5 +1,7 @@
 # A 30-minute 3 Ls workshop
 
+**Status:** initial session plan. This repository does not yet document a completed pilot or participant feedback. The timings are proposed; adjust them to your group and share what you learn.
+
 **Purpose:** each participant leaves with one practical digital sustainability action and a way to review it.
 
 **Audience:** a classroom, workplace, or community group. No technical background is required.
